@@ -6,6 +6,6 @@ class DuckService
 {
     public function __contruct()
     {
-        return 'QUACK';
+        print('QUACK');
     }
 }
